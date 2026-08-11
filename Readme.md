@@ -1,154 +1,18 @@
-<div align="center">
+# 💫 About Me:
+Currently building end-to-end ML & data analytics projects — from raw data to deployed insight<br>📊 Comfortable across the full pipeline: data cleaning → EDA → feature engineering → modeling → evaluation<br>💼 Data Analyst Intern at CodTech IT Solutions (June 2026); earlier AI/ML intern at CodSoft<br>🌱 Sharpening skills in Scikit-learn, Pandas, NumPy, and Matplotlib through hands-on projects<br>🎯 Seeking entry-level opportunities in AI/ML or Data Science
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Evangelin%20Dorathy%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineering%20Student%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/evangelin-dorathy-973b242a3">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:evangelindorathy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/evangelin-dorathy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/evangelin-dorathy-973b242a3) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Evangelin Dorathy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:evangelindorathy@gmail.com) 
 
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=evangelin-dorathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=evangelin-dorathy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=evangelin-dorathy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=evangelin-dorathy&icon=0&color=12)](https://visitcount.itsvg.in)
 
-### 🎓 About Me
-
-```yaml
-name: Evangelin Dorathy J
-role: B.E. Artificial Intelligence & Machine Learning student
-institution: Saranathan College of Engineering (2023 – 2027)
-location: Trichy, Tamil Nadu, India
-current_role: Data Analyst Intern @ CodTech IT Solutions
-focus: Machine Learning · Data Analysis · Predictive Modeling
-```
-
-- 🔭 Currently building end-to-end **ML & data analytics** projects — from raw data to deployed insight
-- 📊 Comfortable across the full pipeline: data cleaning → EDA → feature engineering → modeling → evaluation
-- 💼 Data Analyst Intern at **CodTech IT Solutions** (June 2026); earlier AI/ML intern at **CodSoft**
-- 🌱 Sharpening skills in Scikit-learn, Pandas, NumPy, and Matplotlib through hands-on projects
-- 🎯 Seeking entry-level opportunities in **AI/ML** or **Data Science**
-
-<br/>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-<br/>
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💳 Credit Card Fraud Detection**
-Individual project · `Python` `Scikit-learn` `Pandas` `NumPy`
-- Trained ML classification models to flag fraudulent transactions
-- Full EDA, feature selection, and preprocessing pipeline
-- Evaluated with accuracy, precision, recall & F1-score
-
-</td>
-<td width="50%" valign="top">
-
-**📈 Sales Analytics Dashboard**
-`Streamlit` `Python` `Pandas`
-- Interactive dashboard on a large real-world sales dataset
-- Anomaly detection, forecasting, and regional filtering
-- End-to-end build from raw CSV to deployed insight
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌦️ Weather Analytics App**
-`Flask` `Scikit-learn` `HTML/CSS`
-- Full-stack app with a glassmorphic frontend
-- Live ML prediction endpoints for weather forecasting
-
-</td>
-<td width="50%" valign="top">
-
-**🛂 Passport Automation System**
-Team project · `Java` `MySQL` `DBMS`
-- Database-driven app for application processing & tracking
-- Relational schema design to cut manual data entry
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=evangelin-dorathy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evangelin-dorathy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=evangelin-dorathy&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-### 🌐 3D Contribution Graph
-
-<div align="center">
-
-<!---
-This section is generated automatically by the GitHub Action
-in .github/workflows/profile-3d-contrib.yml — see setup notes below.
--->
-<img src="profile-3d-contrib/profile-night-green.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-### 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/evangelin-dorathy-973b242a3">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:evangelindorathy@gmail.com">
-  <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=evangelin-dorathy&style=for-the-badge&color=2c5364" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
